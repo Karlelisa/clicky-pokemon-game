@@ -1,0 +1,33 @@
+.title {
+  width: 100%;
+  text-align: center;
+  font-size: 3rem;
+  color: #2A77AE;
+  font-weight: bold;
+  margin-bottom: 50px;
+  align-items: center;
+  /* https://www.npmjs.com/package/pokemon-font */
+  -webkit-font-smoothing: none;
+  font-family: 'pokemon-font', monospace;
+  /* font-family: 'Flamenco', cursive; */
+}
+
+.logo {
+  background-image: url("images/green-pokemon-logo.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 600px;
+  margin-left: 40%;
+  /* margin-right: 100%; */
+}
+
+.card{
+  border: none;
+}
+
+h1 {
+  margin-left: 60px;
+  font-size: 40px;
+}
+
+
